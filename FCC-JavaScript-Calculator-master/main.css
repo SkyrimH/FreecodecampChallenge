@@ -1,0 +1,44 @@
+h3 {
+    color: white;
+}
+#display {
+    position: relative;
+    margin: 10px 25px;
+    height: 50px;
+    text-align: right;
+    font-size: 30px;
+    color: white;
+
+}
+button {
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+    border:none;
+    border-radius: 50%;
+    font-size: 20px;
+}
+
+.number {
+    background-color:  #474747;
+    color:white;
+}
+.cal {
+    background-color: orange;
+    color:white;
+}
+.func {
+    background-color: #c5c5c5;
+    color: black;
+}
+
+
+.calculator {
+    margin: 100px auto;
+    padding: 15px 10px 10px 10px;
+    width: 300px;
+    height: 460px;
+    border-radius: 25px;
+    background-color: black;
+}
+

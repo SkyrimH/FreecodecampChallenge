@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background: url(http://img.xshuma.com/201203/17184912031837878.jpg) no-repeat fixed;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color:#000;
+    text-decoration: none;
+}
+.container {
+    margin-top: 40px;
+}
+.content {
+    display: block;
+    z-index: 2;
+    background-color: #75aef8 !important;
+    color: black;
+    border-radius: 3px;
+    padding: 0px 20px;
+    opacity: 0.8;
+}
+.btn {
+    width: 120px;
+}
+#id-random {
+    margin: 20px auto;
+}
+
+#id-input {
+    display: inline-box;
+    padding: 6px 12px;
+    border:solid;
+    border-width: 1px;
+    border-radius: 4px;
+
+}
